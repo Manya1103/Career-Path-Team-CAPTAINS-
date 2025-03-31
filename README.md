@@ -71,8 +71,8 @@ CareerCompass/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/CareerCompass.git
-cd CareerCompass
+git clone [https://github.com/Manya1103/Career-Path-Team-CAPTAINS-.git]
+cd CareerPath
 ```
 
 2. Install dependencies:
@@ -85,7 +85,7 @@ npm install
 npm run dev
 ```
 
-4. Open your browser and visit `http://localhost:3000`
+4. Open your browser and visit `http://localhost:5000`
 
 ### Building for Production
 
